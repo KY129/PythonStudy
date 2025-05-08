@@ -1,1 +1,34 @@
-# PythonStudy
+# Python 알아보기
+
+## 파일 확장명
++ Python 파일 `*.py`
++ Jupyter Notebook `*.ipynb`
+
+## Python이란
++ 1991년 귀도 반 로섬(Gudi Van Rossum) 발표
++ 플랫폼 독립적
++ 인터프리터 언어
++ 객체 지향 (OOP)
++ 동적 타이핑 언어
+
+## 역사
++ 1989년 크리스마스 연휴때 초기 Python 개발
++ "Monty Python's Flying Circus" : Python 명칭 유래
++ 근무지 : 구글, DropBox 등등
++ [Gudi Van Rossum 알아보기](https://en.wikipedia.org/wiki/Guido_van_Rossum)
+
+## 용어 및 특징
+1. 플랫폼 = OS
++ 원도우, 리눅스, 안드로이드, 맥OS 등 프로그램 실행되는 운영체제를 플랫폼이라고 한다.
+2. 독립적 = 관계없는, 상관없는
++ OS에 상관없이 한번 프로그램을 작성하면 사용가능
+3. 인터프리터 = 통역기를 사용하는 언어
++ 소스코드를 바로 실행할 수 있게 지원 하는 프로그램 실행 방법
+4. 컴파일러 vs 인터프리터
+<img src="./images/type.png" width="832"></img>
+5. 설치파일 다운로드
++ [Python](https://www.python.org/downloads/)
++ [Anaconda](https://www.anaconda.com/)
++ [Jupyter](https://jupyter.org/install)
++ [VSCODE](https://code.visualstudio.com/)
++ [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows)
